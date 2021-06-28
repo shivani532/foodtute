@@ -1,6 +1,6 @@
 # foodtute
 
-A food recipe flutter application with API.
+A food recipe flutter application built with API.
 
 ## Getting Started
 
